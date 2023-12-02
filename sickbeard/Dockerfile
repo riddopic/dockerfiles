@@ -9,7 +9,7 @@
 # 	--name sickbeard \
 # 	jess/sickbeard
 #
-FROM alpine:latest
+FROM alpine:3.18.5
 LABEL maintainer "Jessie Frazelle <jess@linux.com>"
 
 
